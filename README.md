@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Development Projects
-- 📫 You can reach me through my email, i.e., devyush@yahoo.com
+- 📫 You can reach me through my email, i.e., devyushraturi@proton.me
 
 <!---
 Devyush/Devyush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
