@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Devyush
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on Development Projects
+- 🌱 I’ve 2 years of experience in blockchain development
+- 💞️ I’m looking to collaborate on Web3 Projects
 - 📫 You can reach me through my email, i.e., devyushraturi@proton.me
 
 <!---
